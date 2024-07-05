@@ -8,4 +8,4 @@ Just a developer who likes to build integrations and automate stuff. I'm always 
 - Powershell is my guilty pleasure
 
 Twitter: [@claw0ry](https://twitter.com/claw0ry)
-Bsky.app: [claw0ry.codes](https://bsky.app/profile/claw0ry.codes)
+Bsky.app: [claw0ry.net](https://bsky.app/profile/claw0ry.net)
